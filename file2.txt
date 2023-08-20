@@ -1,2 +1,3 @@
 Hobbies:dancing,playing badminton,sketching
 skills:coding,webdev,arduino
+clubs:Decoder,Corsit
