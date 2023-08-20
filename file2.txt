@@ -1,1 +1,2 @@
 Hobbies:dancing,playing badminton,sketching
+skills:coding,webdev,arduino
